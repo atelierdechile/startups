@@ -2,12 +2,28 @@
  "children": [
              {"name": "Generacion 6",
               "children": [
-                          {"name": "KM - Latch",
-                          "children": [ {"name": "Location", "size": 1005},
-                                        {"name": "Alphabetic", "size": 1004},
-                                        {"name": "Timeline", "size": 1003},
-                                        {"name": "Category", "size": 1002},
-                                        {"name": "Hierarchy", "size": 1001}
+                          {"name": "Empresas",
+                          "children": [ 
+                           {"name": "GoPlaceIt", "size": 678},
+{"name": "Viajala", "size": 1325},
+{"name": "BrickFlow", "size": 2407},
+{"name": "re:3D", "size": 3233},
+{"name": "Nuflick", "size": 6793},
+{"name": "Kudo Learning", "size": 6874},
+{"name": "ThinkerThing", "size": 7005},
+{"name": "Aiotra", "size": 8838},
+{"name": "VeronicaCore", "size": 9998},
+{"name": "Qonf", "size": 10285},
+{"name": "SonicPollen", "size": 11096},
+{"name": "Soukboard", "size": 11196},
+{"name": "Let"sJock", "size": 11,33},
+{"name": "Worldrat", "size": 11474},
+{"name": "PayAllies", "size": 11502},
+{"name": "AgriMaps", "size": 11642},
+{"name": "Eduquia", "size": 11851},
+{"name": "Work4ce.me", "size": 11984},
+{"name": "E-nterview", "size": 12,72},
+{"name": "Mamabox", "size": 13973}
                                       ]
                           }
                           ]
