@@ -1,7 +1,7 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-   {"type": "Feature", "geometry": { "type": "Point", "coordinates": [-33.4402614, 289.3413898]},"properties": {"name": "Amunátegui", "Tipo": "", "Jefe Local": "Nombre1", "Fono": "562" , "direccion": "Huérfanos 1390"} },
+"type": "FeatureCollection",
+"features": [
+{"type": "Feature", "geometry": { "type": "Point", "coordinates": [-33.4402614, 289.3413898]},"properties": {"name": "Amunátegui", "Tipo": "", "Jefe Local": "Nombre1", "Fono": "562" , "direccion": "Huérfanos 1390"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [-33.4017159, 289.4044116]},"properties": {"name": "Candelaria Goyenechea ", "Tipo": "", "Jefe Local": "Nombre2", "Fono": "562" , "direccion": "Av. Vitacura 3783"} },
 {"type": "Feature", "geometry": { "type": "Point", "coordinates": [-34.985763, 288.7586543]},"properties": {"name": "Curicó ", "Tipo": "", "Jefe Local": "Nombre3", "Fono": "562" , "direccion": "Plaza Estado 336"} }
   ]
