@@ -2,35 +2,16 @@
   "type": "FeatureCollection",
   "features": [
     { "type": "Feature",  "geometry": { "type": "Point",    "coordinates": [       289.366932,       -33.441592      ]     },
-      "properties": { "name": "Original Green Roasters",  "Jefe Local": "Daniel", "fono": "+56956365004"      }
+      "properties": { "name": "Original Green Roasters",  "Jefe Local": "Nombre1", "fono": "+569" , "email": "@"        }
     },
-   {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [    289.3480445,      -33.4276064     ]
-      },
-      "properties": {
-        "name": "Café Altura",
-	"staff": "Fabián, Gonzalo, Segundo; Alexander",
-	"fono": "+569",
-	"email": "@",
-	"panes": "café de especialidad"
-      }
+   {  "type": "Feature",  "geometry": {     "type": "Point",  "coordinates": [    289.3480445,      -33.4276064     ]      },
+      "properties": {  "name": "Café Altura", "Jefe Local": "Nombre2", 	"fono": "+569", "email": "@"         }
    },
 
 {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [      289.3299505,      -33.4456397     ]
-      },
-      "properties": {
-        "name": "Forastero",
-	"fono": "+56977999115",
-	"email": "@",
-	"café": "café de especialidad"
-      }
+      "geometry": {     "type": "Point",         "coordinates": [      289.3299505,      -33.4456397     ]        },
+      "properties": {  "name": "Forastero", "Jefe Local": "Nombre3", "fono": "+56977999115",  "email": "@"       }
     }
   ]
 }
